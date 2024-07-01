@@ -1,6 +1,6 @@
 # time-kit
 
-TimeKit is a versatile toolkit for handling date and time operations in web projects, with built-in support for timezones. It provides a set of utility functions and a class-based approach to manage and format dates, times, and timezones efficiently.
+TimeKit is a toolkit for handling date and time operations in web projects, with built-in support for timezones. It provides a set of utility functions and a class-based approach to manage and format dates, times, and timezones efficiently.
 
 ## Features
 
